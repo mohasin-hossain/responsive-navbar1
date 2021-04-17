@@ -1,6 +1,6 @@
 ## Responsive Navigation bar with animated Hamburger Menu
 
-## Technology
+## Technologies
 
 - HTML
 - CSS
